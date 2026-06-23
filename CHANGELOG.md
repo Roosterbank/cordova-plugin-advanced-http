@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.0.1
+
+- Added header import for cordova ios platform version 8
+
+
 ## 3.0.0
 
 - Feature #158: support removing headers which were previously set via "setHeader"
