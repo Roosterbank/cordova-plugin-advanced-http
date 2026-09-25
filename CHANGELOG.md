@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.2
+
+- Removed private import now blocked by Xcode 27
+
 ## 3.0.1
 
 - Added header import for cordova ios platform version 8
